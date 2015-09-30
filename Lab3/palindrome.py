@@ -1,6 +1,6 @@
 # Lab3Repo - Palindrome
 
-print "Type word: "
+print "Enter word: "
 x = raw_input("")
 
 y = x[::-1]
